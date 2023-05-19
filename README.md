@@ -25,6 +25,10 @@ generating these labels to the research community, allowing for further explorat
 We achieved IoU Score of 26 percent . 
  
  <h1 align="center">News</h1> 
-  * [May2023] code coming soon [Github](https://github.com/ajayrafa25/BEV-MoSeg)
+  * [May2023] code coming soon [Github](https://github.com/ajayrafa25/BEV-MoSeg) 
+
+
+<h1 align="center">Results</h1> 
+![Moving object Segmentation](images/openai-logo.png)
 
 
