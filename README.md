@@ -33,5 +33,5 @@ We achieved IoU Score of 26 percent .
 ![alt text](Results/eval000017032 (1).jpg) 
 
 **Inference Video**
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/a1jQoD-EcfU/30.jpg)](https://www.youtube.com/watch?v=a1jQoD-EcfU)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/a1jQoD-EcfU/0.jpg)](https://www.youtube.com/watch?v=a1jQoD-EcfU)
 
