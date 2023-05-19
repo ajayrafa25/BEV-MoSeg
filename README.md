@@ -63,7 +63,11 @@
 
   <h2>Results</h2>
   <img src="Results/eval000017032 (1).jpg" alt="Results">
-
+  <p>The left side of the illustrated image displays six camera views surrounding the vehicle, with the top three views being front-facing and the bottom three views
+back-facing. On the right side, our model’s predicted map-view segmentation for vehicles and the driveable area is shown.
+Additionally, the ground truth segmentation is provided for reference. The ego-vehicle is highlighted in green at the center of
+the map. Moving vehicles, which our model aims to predict, are represented by blue pixels, while static vehicles are depicted
+    in red (for visualization purpose only).</p>
   <hr>
 
   <div class="video-container">
