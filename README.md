@@ -11,18 +11,6 @@
       line-height: 1.5;
     }
 
-    .header {
-      background-color: green;
-      padding: 10px;
-      display: flex;
-      align-items: center;
-    }
-
-    .logo {
-      margin-right: 10px;
-      width: 50px;
-    }
-
     h1 {
       text-align: center;
     }
@@ -57,13 +45,7 @@
   </style>
 </head>
 <body>
-  <div class="header">
-    <img src="Results/images.png" alt="Company Logo" class="logo">
-    <h1>BEV-MoSeg: Segmenting Moving Objects in Bird’s Eye View</h1>
-  </div>
-
-  <hr>
-
+  <h1>BEV-MoSeg: Segmenting Moving Objects in Bird’s Eye View</h1>
   <h1><font size="3">Ajay Kumar Sigatapu, Venkatesh Satagopan, Ganesh Sistu, Ravikant Singh, AV Narasimhadhan</font></h1>
 
   <hr>
@@ -80,4 +62,14 @@
   <hr>
 
   <h2>Results</h2>
-  <img src="Results/eval000017032 (1).jpg" alt
+  <img src="Results/eval000017032 (1).jpg" alt="Results">
+
+  <hr>
+
+  <div class="video-container">
+    <h2><font size="3">Inference Video (CLICK ON THE IMAGE TO START VIDEO)</font></h2>
+    <a href="https://www.youtube.com/watch?v=a1jQoD-EcfU">
+      <img src="https://img.youtube.com/vi/a1jQoD-EcfU/0.jpg" alt="Video Thumbnail">
+    </a>
+  </div>
+</body
