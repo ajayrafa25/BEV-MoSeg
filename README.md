@@ -25,6 +25,6 @@ generating these labels to the research community, allowing for further explorat
 We achieved IoU Score of 26 percent . 
  
  <h1 align="center">News</h1> 
- - **[October 2020]** [code coming soon](link-to-code-repository)
+ - **[October 2020]** [code coming soon](https://github.com/ajayrafa25/BEV-MoSeg)
 
 
