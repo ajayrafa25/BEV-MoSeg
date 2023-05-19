@@ -1,9 +1,9 @@
 <h1 align="center">BEV-MoSeg: Segmenting Moving Objects in Bird’s Eye View</h1>
+<h1 align="center">*Ajay Kumar Sigatapu, Venkatesh Satagopan, Ganesh Sistu, Ravikant Singh, AV Narasimhadhan*</h1>
 
 
 
-
-*Ajay Kumar Sigatapu, Venkatesh Satagopan, Ganesh Sistu, Ravikant Singh, AV Narasimhadhan* 
+ 
  
  **Abstract**: Moving object detection is a critical task for autonomous
 vehicles. As dynamic objects represent higher collision
