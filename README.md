@@ -1,4 +1,4 @@
-# BEV-MoSeg
+<h1 align="center">BEV-MoSeg</h1>
 
 
 **BEV-MoSeg: Segmenting Moving Objects in Bird’s Eye View** 
