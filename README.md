@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
   <title>BEV-MoSeg: Segmenting Moving Objects in Bird’s Eye View</title>
@@ -72,4 +72,4 @@
       <img src="https://img.youtube.com/vi/a1jQoD-EcfU/0.jpg" alt="Video Thumbnail">
     </a>
   </div>
-</body
+
