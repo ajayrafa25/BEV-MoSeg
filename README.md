@@ -29,6 +29,6 @@ We achieved IoU Score of 26 percent .
 
 
 <h1 align="center">Results</h1> 
-![Moving object Segmentation](Results/eval000017032 (1).jpg)
+![alt text](Results/eval000017032 (1).jpg)
 
 
