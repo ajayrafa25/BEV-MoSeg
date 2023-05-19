@@ -3,12 +3,12 @@
 <tbody>
 <td align="center">
 <img width="2000" height="0"><br>
-<sub>#                   BEV-MoSeg Much wow</sub><br>
+<sub>#BEV-MoSeg Much wow</sub><br>
 <img width="2000" height="0">
 </td>
 </tbody>
 </table>
-</div>#                   BEV-MoSeg
+</div>#                  
 **BEV-MoSeg: Segmenting Moving Objects in Bird’s Eye View** 
 
 *Ajay Kumar Sigatapu, Venkatesh Satagopan, Ganesh Sistu, Ravikant Singh, AV Narasimhadhan* 
