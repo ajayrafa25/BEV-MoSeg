@@ -1,5 +1,5 @@
 <h1 align="center">BEV-MoSeg: Segmenting Moving Objects in Bird’s Eye View 
-<font size="-1">Ajay Kumar Sigatapu, Venkatesh Satagopan, Ganesh Sistu, Ravikant Singh, AV Narasimhadhan</font></h1>
+<font size="-5">Ajay Kumar Sigatapu, Venkatesh Satagopan, Ganesh Sistu, Ravikant Singh, AV Narasimhadhan</font></h1>
 
 
 
