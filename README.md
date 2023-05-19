@@ -1,7 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>BEV-MoSeg: Segmenting Moving Objects in Bird’s Eye View</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      line-height: 1.5;
+    }
 
+    .header {
+      background-color: green;
+      padding: 10px;
+      display: flex;
+      align-items: center;
+    }
 
-  <h1>BEV-MoSeg: Segmenting Moving Objects in Bird’s Eye View</h1>
-  <h1 style="color: skyblue;"><font size="3">Ajay Kumar Sigatapu, Venkatesh Satagopan, Ganesh Sistu, Ravikant Singh, AV Narasimhadhan</font></h1>
+    .logo {
+      margin-right: 10px;
+      width: 50px;
+    }
+
+    h1 {
+      text-align: center;
+    }
+
+    h2 {
+      text-align: center;
+      font-size: 1.2em;
+      margin-top: 40px;
+    }
+
+    p {
+      text-align: justify;
+    }
+
+    .news-item {
+      margin-bottom: 10px;
+    }
+
+    .video-container {
+      text-align: center;
+    }
+
+    .video-container h2 {
+      margin-bottom: 0;
+    }
+
+    .video-container img {
+      display: block;
+      margin: 0 auto;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <img src="path/to/company-logo.png" alt="Company Logo" class="logo">
+    <h1>BEV-MoSeg: Segmenting Moving Objects in Bird’s Eye View</h1>
+  </div>
+
+  <hr>
+
+  <h1><font size="3">Ajay Kumar Sigatapu, Venkatesh Satagopan, Ganesh Sistu, Ravikant Singh, AV Narasimhadhan</font></h1>
 
   <hr>
 
@@ -11,20 +74,10 @@
 
   <h2>News</h2>
   <div class="news-item">
-    <p>[May 2023] Code coming soon on <a href="https://github.com/ajayrafa25/BEV-MoSeg">GitHub</a></p>
+    <p>[May 2023] Code coming soon. <a href="https://github.com/ajayrafa25/BEV-MoSeg">GitHub</a></p>
   </div>
 
   <hr>
 
   <h2>Results</h2>
-  <img src="Results/eval000017032 (1).jpg" alt="Results">
-
-  <hr>
-
-  <div class="video-container">
-    <h2><font size="3">Inference Video (CLICK ON THE IMAGE TO START VIDEO)</font></h2>
-    <a href="https://www.youtube.com/watch?v=a1jQoD-EcfU">
-      <img src="https://img.youtube.com/vi/a1jQoD-EcfU/0.jpg" alt="Video Thumbnail">
-    </a>
-  </div>
-
+  <img src="Results/eval000017032 (1).jpg" alt
