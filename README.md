@@ -56,7 +56,7 @@
 
   <h2>News</h2>
   <div class="news-item">
-    <p>[May 2023] Code coming soon. <a href="https://github.com/ajayrafa25/BEV-MoSeg">GitHub</a></p>
+    <p>[May 2023] Code coming soon  <a href="https://github.com/ajayrafa25/BEV-MoSeg">GitHub</a></p>
   </div>
 
   <hr>
