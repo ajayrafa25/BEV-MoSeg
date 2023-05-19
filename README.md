@@ -22,5 +22,9 @@ accurately annotate moving objects, which were not previously available. These l
 for precise analysis and understanding of moving objects.
 To promote reproducibility, we will release the code used for
 generating these labels to the research community, allowing for further exploration and advancements in this area.
-We achieved IoU Score of 26 percent .
+We achieved IoU Score of 26 percent . 
+ 
+ <h1 align="center">News</h1> 
+ - **[October 2020]** [code coming soon](link-to-code-repository)
+
 
