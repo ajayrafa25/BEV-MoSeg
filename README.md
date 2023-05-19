@@ -1,50 +1,5 @@
 
-<html>
-<head>
-  <title>BEV-MoSeg: Segmenting Moving Objects in Bird’s Eye View</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 20px;
-      line-height: 1.5;
-    }
 
-    h1 {
-      text-align: center;
-    }
-
-    h2 {
-      text-align: center;
-      font-size: 1.2em;
-      margin-top: 40px;
-    }
-
-    p {
-      text-align: justify;
-    }
-
-    .news-item {
-      margin-bottom: 10px;
-    }
-
-    .video-container {
-      text-align: center;
-    }
-
-    .video-container h2 {
-      margin-bottom: 0;
-    }
-
-    .video-container img {
-      display: block;
-      margin: 0 auto;
-      cursor: pointer;
-    }
-  </style>
-</head>
-<body>
   <h1>BEV-MoSeg: Segmenting Moving Objects in Bird’s Eye View</h1>
   <h1 style="color: skyblue;"><font size="3">Ajay Kumar Sigatapu, Venkatesh Satagopan, Ganesh Sistu, Ravikant Singh, AV Narasimhadhan</font></h1>
 
