@@ -34,8 +34,13 @@ We achieved IoU Score of 26 percent .
 
 
 
-<h2 align="center"><font size="3">Inference Video (CLICK ON THE IMAGE TO START VIDEO)</font></h2>
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/a1jQoD-EcfU/0.jpg)](https://www.youtube.com/watch?v=a1jQoD-EcfU)
+<div style="text-align: center;">
+  <h2><font size="3">Inference Video (CLICK ON THE IMAGE TO START VIDEO)</font></h2>
+  <a href="https://www.youtube.com/watch?v=a1jQoD-EcfU">
+    <img src="https://img.youtube.com/vi/a1jQoD-EcfU/0.jpg" alt="Video Thumbnail">
+  </a>
+</div>
+
 
 
 
