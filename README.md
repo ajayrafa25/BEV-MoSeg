@@ -58,7 +58,7 @@
 </head>
 <body>
   <div class="header">
-    <img src="path/to/company-logo.png" alt="Company Logo" class="logo">
+    <img src="Results/images.png" alt="Company Logo" class="logo">
     <h1>BEV-MoSeg: Segmenting Moving Objects in Bird’s Eye View</h1>
   </div>
 
