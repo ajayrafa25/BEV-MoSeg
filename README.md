@@ -1,12 +1,7 @@
-<style>
-  .centered {
-    text-align: center;
-  }
-</style>
-
-<div class="centered">
+<p align="center">
   <b> BEV-MoSeg <b>
-</div>
+</p>
+
 
 
 **BEV-MoSeg: Segmenting Moving Objects in Bird’s Eye View** 
