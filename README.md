@@ -45,6 +45,7 @@
   </style>
 </head>
 <body>
+  <img src="Results/Valeo-logo-C3C3247EFB-seeklogo.com.png alt="Logo" style="position: absolute; top: 20px; left: 20px; height: 50px;">
   <h1 style="background-color: #90EE90;">BEV-MoSeg: Segmenting Moving Objects in Bird’s Eye View</h1>
   <h1><font size="3">Ajay Kumar Sigatapu, Venkatesh Satagopan, Ganesh Sistu, Ravikant Singh, AV Narasimhadhan</font></h1>
 
